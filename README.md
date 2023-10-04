@@ -15,3 +15,23 @@ Gofiber starter web-api project supported configuration with MongoDB and Users a
 - Scheduler
 - Websocket
 - Webserver
+
+
+### Code structure (main points)
+
+├── Auth  
+│   └── Auth.go  
+├── Models  
+│   └── User.go  
+├── Controllers  
+│   └── User.go  
+├── Routes  
+│   └── User.go  
+├── Middleware  
+│   └── Wall.go  
+├── Scheduler  
+│   └── Runner.go  
+├── Utils  
+│   └── Utils.go  
+└── WSS  
+    └── Commander.go 
