@@ -92,7 +92,6 @@ const (
 	mtError      = "error"   // error message
 	mtSuccess    = "success" // success message
 	mtCMDRes     = "cmdres"  // command response
-	mtScreenshot = "ss"      // screenshot command
 	mtCMD        = "cmd"     // command
 )
 
